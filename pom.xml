@@ -4,7 +4,7 @@
 
     <groupId>com.github.seregamorph</groupId>
     <artifactId>maven-turbo-reactor-parent</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.2-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>maven-turbo-reactor-parent</name>
     <description>
